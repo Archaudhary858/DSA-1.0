@@ -1,0 +1,1 @@
+sortArr(arr,5);
